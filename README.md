@@ -65,17 +65,3 @@ We are aware of the potential ethical issues and have implemented measures to pr
 Users are expected to follow local laws and use the software responsibly. If using real faces, get consent and clearly label deepfakes when sharing. The developers aren't liable for user actions.
 
 
-## Licenses
-
-Our software uses a lot of third party libraries as well pre-trained models. The users should keep in mind that these third party components have their own license and terms, therefore our license is not being applied.
-
-
-## Credits
-
-- [deepinsight](https://github.com/deepinsight) for their [insightface](https://github.com/deepinsight/insightface) project which provided a well-made library and models.
-- all developers behind the libraries used in this project
-
-
-## Documentation
-
-Read the [documentation](https://github.com/s0md3v/roop/wiki) for a deep dive.
